@@ -1,0 +1,20 @@
+6
+A B C D E F
+A B 6
+A F 2
+B A 6
+B C 1
+B D 4
+B E 3
+C B 1
+C D 2
+D B 4
+D C 2
+D E 3
+D F 1
+E B 3
+E D 3
+E F 6
+F A 2
+F E 6
+F D 1
